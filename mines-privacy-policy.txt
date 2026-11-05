@@ -1,21 +1,33 @@
-Политика конфиденциальности Приложение Mines! (Мины!) не собирает, не хранит и не обрабатывает персональные данные пользователей.
+EN:
+Privacy Policy
+The Mines! application is developed as an independent, non-commercial project. It does not collect, store, or process any sensitive personal user data.
 
-1. Общие положения
+1. General Provisions & Advertisements
+  1.1 The application is completely free and does not include any advertising SDKs, advertising networks, marketing trackers, or user-profiling tools.
 
-1.1 В приложении используется рекламный SDK Яндекса (РСЯ), который может автоматически собирать следующие данные в соответствии с Политикой конфиденциальности Яндекса:
+2. Network Interaction and Matchmaking (Photon Engine)
+  2.1 To facilitate online multiplayer functionality, manage player rooms, and provide lobby matchmaking services, the application uses Photon Cloud services provided by Exit Games GmbH.
+  2.2 When connecting to online servers, the Photon infrastructure automatically processes the following technical infrastructure data:
+    • Device IP Address — processed strictly for essential network routing and selecting the optimal regional game server.
+    • Temporary Session ID (Peer ID) — an ephemeral unique token used to synchronize and identify players inside game rooms.
+  2.3 This data is encrypted in transit, processed ephemerally, is not stored permanently, and is never used for user tracking or profiling.
 
-- Идентификаторы устройства (включая рекламные ID)
+3. Contact the Developer
+  3.1 If you have any questions or suggestions, please contact the developer by email: robturgames@gmail.com.
 
-- IP-адрес
+РУС:
+Политика конфиденциальности
+Приложение Mines! (Мины!) создано независимым разработчиком как некоммерческий проект и не собирает, не хранит и не обрабатывает конфиденциальные личные данные пользователей.
 
-- Информация об устройстве и системе (модель, ОС, язык)
+1. Общие положения и реклама
+  1.1 Приложение является полностью бесплатным и не содержит сторонних рекламных сетей, маркетинговых трекеров или скрытых систем аналитики.
 
-- Поведение в приложении (например, взаимодействие с рекламой)
+2. Сетевое взаимодействие и мультиплеер (Photon Engine)
+  2.1 Для технической организации игровых комнат, лобби и синхронизации игроков по сети приложение использует облачный сервис Photon Cloud (Exit Games GmbH).
+  2.2 В процессе подключения к серверам Photon автоматически обрабатывает следующие технические данные:
+    • IP-адрес устройства — исключительно для маршрутизации сетевых пакетов и автоматического выбора ближайшего регионального сервера.
+    • Временный сетевой идентификатор (Peer ID) — временный технический номер сессии для корректного соединения игроков в одной комнате.
+  2.3 Эти данные обрабатываются на серверах Exit Games в зашифрованном виде в режиме реального времени (эфемерно), не сохраняются на постоянной основе и не используются для отслеживания пользователей или таргетинга.
 
-Эти данные используются исключительно для показа релевантной рекламы и аналитики и передаются в зашифрованном виде на сервера Яндекса.
-
-Используя приложение, вы соглашаетесь с обработкой данных в рамках политики Яндекса.
-
-2. Связь с разработчиком
-
-2.1 Если у вас есть вопросы или пожелания, свяжитесь с разработчиком по электронной почте: robturgames@gmail.com.
+3. Связь с разработчиком
+  3.1 Если у вас есть вопросы или пожелания, свяжитесь с разработчиком по электронной почте: robturgames@gmail.com.
